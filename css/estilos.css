@@ -160,6 +160,9 @@ body{
     font-size: 20px;
     transition: opacity 0.3s ease-in-out;
 }
+.meus-projetos li a:hover{
+    opacity: 0.8;
+}
 
 .meus-projetos .projeto1{
     background-color: #06c710;
