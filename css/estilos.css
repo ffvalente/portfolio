@@ -124,6 +124,25 @@ body{
     font-size: 20px;
     transition: opacity 0.3s ease-in-out;
 }
+
+
+.redes-sociais li a:hover{
+    opacity: 0.8;
+}
+
+.redes-sociais .gmail{
+    background-color: #db0c0c;
+}
+
+.redes-sociais .linkedin{
+    background-color: #1d87bd;
+}
+
+.redes-sociais .github{
+    background-color: #545454;
+}
+
+
 .meus-projetos{
     display: flex;
     flex-direction: column;
@@ -142,21 +161,6 @@ body{
     transition: opacity 0.3s ease-in-out;
 }
 
-.redes-sociais li a:hover{
-    opacity: 0.8;
-}
-
-.redes-sociais .gmail{
-    background-color: #db0c0c;
-}
-
-.redes-sociais .linkedin{
-    background-color: #1d87bd;
-}
-
-.redes-sociais .github{
-    background-color: #545454;
-}
 .meus-projetos .projeto1{
     background-color: #06c710;
 }
