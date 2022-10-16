@@ -124,6 +124,15 @@ body{
     font-size: 20px;
     transition: opacity 0.3s ease-in-out;
 }
+.meus-projetos li a{    
+    width: 250px;
+    display: block;
+    color: #f3f3f3;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    transition: opacity 0.3s ease-in-out;
+}
 
 .redes-sociais li a:hover{
     opacity: 0.8;
