@@ -25,7 +25,6 @@ body{
               inset 0 0 1.3rem #e725de; 
     background-color: #131313;
     width: 370px;
-    border: 2px solid #e725de;
     border-radius: 10px;
     overflow: hidden;
 }
@@ -48,7 +47,6 @@ body{
               0 0 2.8rem #e725de,
               inset 0 0 1.3rem #e725de; 
     border-radius: 50px;
-    border: 2px solid #e725de;   
     width: 100px; 
     height: 100px;
 }
