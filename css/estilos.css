@@ -15,6 +15,14 @@ body{
 }
 
 .perfil{
+    animation: pulsate 1.5s infinite alternate;  
+    border: 0.2rem solid #fff;
+    box-shadow: 0 0 .2rem #fff,
+              0 0 .2rem #fff,
+              0 0 2rem #e725de,
+              0 0 0.8rem #e725de,
+              0 0 2.8rem #e725de,
+              inset 0 0 1.3rem #e725de; 
     background-color: #131313;
     width: 370px;
     border: 2px solid #e725de;
@@ -31,8 +39,16 @@ body{
 }
 
 .perfil .minhas-infos img{
+    animation: pulsate 1.5s infinite alternate;  
+    border: 0.2rem solid #fff;
+    box-shadow: 0 0 .2rem #fff,
+              0 0 .2rem #fff,
+              0 0 2rem #e725de,
+              0 0 0.8rem #e725de,
+              0 0 2.8rem #e725de,
+              inset 0 0 1.3rem #e725de; 
     border-radius: 50px;
-    border: 4px solid #a407e2;   
+    border: 2px solid #e725de;   
     width: 100px; 
     height: 100px;
 }
