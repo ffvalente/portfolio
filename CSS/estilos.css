@@ -1,7 +1,7 @@
 body{
-    
+    background =" ./imagens/background.jpg "
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto;
     background-position: center;
 
     font-family: 'VT323', monospace;
